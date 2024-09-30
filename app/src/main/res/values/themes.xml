@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ReLogin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+<!--    <style name ="Themes.App.SplashScreen" parent  = "Theme.SplashScreen">-->
+<!--        <item name = "windowSplashScreenBackground">@color/purple</item>-->
+<!--        <item name = "windowSplashScreenAnimatedIcon">@drawable/ashvasvg</item>-->
+<!--        <item name = "postSplashScreenTheme">@style/Base.Theme.ReLogin</item>-->
+<!--    </style>-->
+
+    <style name="Theme.ReLogin" parent="Base.Theme.ReLogin" />
+
+</resources>
+
+

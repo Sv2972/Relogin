@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897950372680",
+    "project_id": "relogin-8f0ce",
+    "storage_bucket": "relogin-8f0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897950372680:android:4699e1a7f8990d0f31197d",
+        "android_client_info": {
+          "package_name": "com.example.relogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGW-tv0In2jSLKBzY2j01hzAjseQ-Ro4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
